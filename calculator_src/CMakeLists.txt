@@ -6,3 +6,5 @@ add_subdirectory(./multiplier)
 add_subdirectory(./divisor)
 
 add_executable(Calculator main.cpp)
+
+target_link_directories(Calculator ~~~~~)
