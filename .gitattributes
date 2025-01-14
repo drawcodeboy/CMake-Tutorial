@@ -1,11 +1,2 @@
-# ¸ğµç ÆÄÀÏ ±âº» ¼³Á¤
+# ëª¨ë“  íŒŒì¼ ê¸°ë³¸ ì„¤ì •
 * text=auto
-
-# Æ¯Á¤ È®ÀåÀÚ¸¸ UTF-8·Î °­Á¦
-*.txt text working-tree-encoding=UTF-8
-*.sh text working-tree-encoding=UTF-8
-*.md text working-tree-encoding=UTF-8
-*.html text working-tree-encoding=UTF-8
-*.cpp text working-tree-encoding=UTF-8
-*.hpp text working-tree-encoding=UTF-8
-*.py text working-tree-encoding=UTF-8
